@@ -10,6 +10,22 @@ body {
     border: white double 3px;
     padding:5px;
     margin-left: 300px;
-    
+}
 
+#physicslogo{
+  position:absolute;
+  left:980px;
+  top:290px;
+
+}
+
+#Justin{
+     position:absolute;
+  left:1030px;
+  top:520px;
+    
+}
+
+#title1{
+    position:
 }
